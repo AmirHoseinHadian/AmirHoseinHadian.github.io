@@ -1,7 +1,5 @@
 [mail](amir.h.hadian@gmail.com)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png", width=100/>
-
 [linkdin](https://www.linkedin.com/in/amir-hosein-hadian-9a0006106/)
 
 [OSF](https://osf.io/ga9zs/)
