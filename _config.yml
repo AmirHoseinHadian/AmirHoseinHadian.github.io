@@ -1,7 +1,9 @@
 title: Amir's Homepage
 logo: /img/amir.png
-description: I'm a researcher
+description: ""
 show_downloads: false
+
+email       : amir.h.hadian@gmail.com
 
 github:
   is_project_page: false
