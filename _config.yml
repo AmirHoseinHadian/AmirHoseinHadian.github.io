@@ -2,7 +2,7 @@ title: Amir's Homepage
 logo: /img/amir.png
 description: I'm a researcher
 show_downloads: false
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-minimal
 
 github:
   is_project_page: false
