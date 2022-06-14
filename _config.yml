@@ -1,5 +1,7 @@
+theme       : minimal-jekyll-theme
 ################################
 # Site Settings
+
 ################################
 lang        : "en"
 logo        :
@@ -16,7 +18,6 @@ port        : 4000
 ################################
 # Theme Settings
 ################################
-theme       : minimal-jekyll-theme
 permalink   : /:title/
 
 collections:
