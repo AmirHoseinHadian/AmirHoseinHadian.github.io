@@ -1,43 +1,7 @@
-you can reach me by [mail](amir.h.hadian@gmail.com)
-
-
-
-
-
 ## Welcome to Amir Hosein Hadian Homepge
-+ [about](https://amirhoseinhadian.github.io/about)
-You can use the [editor on GitHub](https://github.com/AmirHoseinHadian/AmirHoseinHadian.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I received the B.Sc. degree in Computer Sciences from Shahid Beheshti University in 2019 and I am  M.Sc. student of Cognitive Sciences in the Institute for Cognitive and Brain Sciences at Shahid Beheshti University. My research interests are mathematical psychology, reinforcement learning and modeling of human decision making using fractional dynamics.
 
-### Markdown
+I received a B.Sc. degree in Computer Sciences from Shahid Beheshti University (SBU) in 2019 and then I received an M.Sc. degree of Cognitive Sciences in the Institute for Cognitive and Brain Sciences (ICBS) at Shahid Beheshti University. Currently I am a graduate research assistant at [CMPLab](cmplab.sbu.ac.ir). My research interests are mathematical psychology, reinforcement learning, and modeling of human decision-making using fractional dynamics.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AmirHoseinHadian/AmirHoseinHadian.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+you can reach me by [mail](amir.h.hadian@gmail.com)
