@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 theme       : minimal-jekyll-theme
 ################################
 # Site Settings
@@ -159,3 +160,11 @@ jekyll-archives:
     day: '/:year/:month/:day/'
     tag: '/tag/:name/'
     category: '/category/:name/'
+=======
+theme: jekyll-theme-minimal
+title: Amir's homepage
+description: Researcher
+email: amir.h.hadian@gmail.com
+baseurl : ""
+logo: _Amir-removebg.png
+>>>>>>> parent of a008bb2 (Update _config.yml)
