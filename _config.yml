@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: Amir's homepage
-description: Bookmark this!
+description: [Bookmark this!](google.com)
 email: amir.h.hadian@gmail.com
+baseurl : ""
