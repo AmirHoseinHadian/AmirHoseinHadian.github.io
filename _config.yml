@@ -4,3 +4,21 @@ description: Researcher
 email: amir.h.hadian@gmail.com
 baseurl : ""
 logo: /img/amir.png
+
+
+# Navigation Menus
+header_navigation:
+  - title: Documentation
+    url: /docs/
+
+  - title: Themes
+    url: https://desiredpersona.com/themes/
+
+  - title: About
+    url: /about/
+
+  - title: Blog
+    url: /archive/
+
+  - title: Contact
+    url: mailto:you@example.com
