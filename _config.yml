@@ -8,16 +8,4 @@ github:
   
 theme: jekyll-theme-minimal
 
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-archives
-
-# Jekyll SEO Tag Settings https://github.com/jekyll/jekyll-seo-tag
-social:
-  name: Joe Bloggs
-  links:
-    - https://twitter.com/username
-    - https://plus.google.com/u/0/+username
-    - https://www.facebook.com/username
+attribution: false
